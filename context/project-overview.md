@@ -369,6 +369,19 @@ Billing handled via **Stripe** (`stripeCustomerId`, `stripeSubscriptionId` on `U
 - Syntax highlighting on all codeblocks
 - **References:** Notion, Linear, Raycast
 
+### Design References
+
+- [Notion](https://notion.so) - Clean organization
+- [Linear](https://linear.app) - Modern dev aesthetic
+- [Raycast](https://raycast.com) - Quick access patterns
+
+### Screenshots
+
+Refer to the screenshots below as a base for the dashboard UI. It does not have to be exact. Use it as a reference:
+
+- @context/screenshots/dashboard-ui-main.png
+- @context/screenshots/dashboard-ui-drawer.png
+
 ### Layout
 
 ```
